@@ -1,4 +1,4 @@
-# Wellness Behavior Analytics API
+# 🌸 Wellness Behavior Analytics API
 
 A behavioral analytics engine built on 90 days of real longitudinal habit-tracking data, designed to mirror the insights layer that powers consumer wellness apps.
 
